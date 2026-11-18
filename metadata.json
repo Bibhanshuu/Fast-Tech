@@ -1,0 +1,6 @@
+{
+  "name": "Fast Tech",
+  "description": "On-Demand IT Hardware Services & Integrated E-Commerce Ecosystem with Customer, Service Engineer, and Super Admin portals.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
